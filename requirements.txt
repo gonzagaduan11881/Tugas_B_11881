@@ -1,1 +1,4 @@
-httpsgithub.comgonzagaduan11881Tugas_B_11881
+streamlit
+scikit-learn
+numpy
+pandas
